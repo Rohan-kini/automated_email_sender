@@ -1,6 +1,6 @@
 
 
-# Email Sender for Internship Inquiry
+# Bulk Email Sender 
 
 This Python script allows you to send internship/job/sending bulk certificates  emails to multiple recipients using a customized email template and attaching your resume or other relevant document.
 
